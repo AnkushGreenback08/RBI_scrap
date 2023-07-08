@@ -1,0 +1,1534 @@
+1684402492244	geckodriver	INFO	Listening on 127.0.0.1:50186
+1684402495291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileYRvoaY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684402496349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684402496359	Marionette	INFO	Listening on port 50194
+Read port: 50194
+WebDriver BiDi listening on ws://127.0.0.1:50187
+1684402496580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50187/devtools/browser/425f0658-d71b-45ac-b228-cacd585a65af
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofileYRvoaY\thumbnails) because it does not exist
+bugging-port" "50271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileSRkDaB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684402556226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684402556232	Marionette	INFO	Listening on port 50279
+Read port: 50279
+WebDriver BiDi listening on ws://127.0.0.1:50271
+1684402556435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50271/devtools/browser/9f5323e6-da64-40ec-b744-c55c2ea74827
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofileSRkDaB\thumbnails) because it does not exist
+bugging-port" "50354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile1YupKN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684402606019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684402606026	Marionette	INFO	Listening on port 50362
+Read port: 50362
+WebDriver BiDi listening on ws://127.0.0.1:50354
+1684402606239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50354/devtools/browser/754f0a36-c177-4ede-a8e9-fef3f71dd7fc
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile1YupKN\thumbnails) because it does not exist
+bugging-port" "50592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilepHlTBh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684402851626	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684402851631	Marionette	INFO	Listening on port 50600
+Read port: 50600
+WebDriver BiDi listening on ws://127.0.0.1:50592
+1684402851782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50592/devtools/browser/1867eb08-85f4-4416-9f23-7ba17c490a3a
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofilepHlTBh\thumbnails) because it does not exist
+bugging-port" "50983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilefdO0Wd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684403139175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684403139181	Marionette	INFO	Listening on port 50990
+WebDriver BiDi listening on ws://127.0.0.1:50983
+Read port: 50990
+1684403139463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50983/devtools/browser/c81e6b19-b4d1-4258-99c8-4cfcd468c3dd
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684403147791	Marionette	INFO	Stopped listening on port 50990
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684403179956	geckodriver	INFO	Listening on 127.0.0.1:51075
+1684403182999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileMTuqGH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684403183726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684403183731	Marionette	INFO	Listening on port 51089
+Read port: 51089
+WebDriver BiDi listening on ws://127.0.0.1:51076
+1684403183879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51076/devtools/browser/db54d9bc-3cf8-4b11-82c5-cf0d62428c09
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684403191955	Marionette	INFO	Stopped listening on port 51089
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18604, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684403521104	geckodriver	INFO	Listening on 127.0.0.1:62550
+1684403524120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile6wgHZU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684403524559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684403524564	Marionette	INFO	Listening on port 62558
+WebDriver BiDi listening on ws://127.0.0.1:62551
+Read port: 62558
+1684403524850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62551/devtools/browser/faf68699-1fe0-42ec-a806-f60bd92c5c9f
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684403533750	Marionette	INFO	Stopped listening on port 62558
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13056, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684404099720	geckodriver	INFO	Listening on 127.0.0.1:62935
+1684404102752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileCLUpgu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684404103482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684404103487	Marionette	INFO	Listening on port 62943
+Read port: 62943
+WebDriver BiDi listening on ws://127.0.0.1:62936
+1684404103641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62936/devtools/browser/86dbd518-83e7-4960-918f-56bea2d7effc
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofileCLUpgu\bookmarkbackups\bookmarks-2023-05-18.jsonlz4) because it does not exist
+e-debugging-port" "63049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilehsSB7I"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684404189741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684404189746	Marionette	INFO	Listening on port 63074
+Read port: 63074
+WebDriver BiDi listening on ws://127.0.0.1:63049
+1684404189905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63049/devtools/browser/c9e1377d-de57-4861-88ef-fdec92d1f5d0
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684404314908	geckodriver	INFO	Listening on 127.0.0.1:63209
+1684404317936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileXAOzzi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684404318768	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684404318777	Marionette	INFO	Listening on port 63217
+Read port: 63217
+WebDriver BiDi listening on ws://127.0.0.1:63210
+1684404318972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63210/devtools/browser/92cc09b9-5b07-4652-999f-f13b92da5b88
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684404700948	Marionette	INFO	Stopped listening on port 63217
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11328, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684404720453	geckodriver	INFO	Listening on 127.0.0.1:63437
+1684404723520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilewAJkvp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684404724256	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684404724262	Marionette	INFO	Listening on port 63446
+Read port: 63446
+WebDriver BiDi listening on ws://127.0.0.1:63438
+1684404724414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63438/devtools/browser/15519860-c97d-48dd-bf6a-fde793861cab
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684404732649	Marionette	INFO	Stopped listening on port 63446
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684404814124	geckodriver	INFO	Listening on 127.0.0.1:63528
+1684404817134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilesgrkiu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684404818004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684404818012	Marionette	INFO	Listening on port 63536
+Read port: 63536
+WebDriver BiDi listening on ws://127.0.0.1:63529
+1684404818295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63529/devtools/browser/43ee5f7e-a08c-4719-bbbb-849e21daad2d
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684404826832	Marionette	INFO	Stopped listening on port 63536
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8704, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684405567888	geckodriver	INFO	Listening on 127.0.0.1:63834
+1684405570955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilew2TFIQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684405571381	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684405571387	Marionette	INFO	Listening on port 63848
+Read port: 63848
+WebDriver BiDi listening on ws://127.0.0.1:63835
+1684405571549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63835/devtools/browser/318cfa3c-894f-4c0f-9cbf-d869f28e66e8
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684405579972	Marionette	INFO	Stopped listening on port 63848
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17508, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684405624645	geckodriver	INFO	Listening on 127.0.0.1:63920
+1684405627682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilePEyIGt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684405628098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684405628104	Marionette	INFO	Listening on port 63929
+Read port: 63929
+WebDriver BiDi listening on ws://127.0.0.1:63921
+1684405628260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63921/devtools/browser/2cbdac38-77aa-4beb-838f-f7360fadf36f
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684405636344	Marionette	INFO	Stopped listening on port 63929
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11944, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684405713581	geckodriver	INFO	Listening on 127.0.0.1:64001
+1684405716633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofiledvfkm5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684405717030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684405717036	Marionette	INFO	Listening on port 64009
+Read port: 64009
+WebDriver BiDi listening on ws://127.0.0.1:64002
+1684405717183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64002/devtools/browser/d3ae191a-1973-4f34-a3ce-3a7c5b1a05e7
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684405725005	Marionette	INFO	Stopped listening on port 64009
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15516, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684405803192	geckodriver	INFO	Listening on 127.0.0.1:64090
+1684405806267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilejy7DwY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684405806789	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684405806795	Marionette	INFO	Listening on port 64098
+Read port: 64098
+WebDriver BiDi listening on ws://127.0.0.1:64091
+1684405806983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64091/devtools/browser/983b06cc-0629-4fbf-a3d6-5a21c49bec49
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684405814857	Marionette	INFO	Stopped listening on port 64098
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684405928317	geckodriver	INFO	Listening on 127.0.0.1:64182
+1684405931342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile24jKnO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684405931837	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684405931843	Marionette	INFO	Listening on port 64191
+Read port: 64191
+WebDriver BiDi listening on ws://127.0.0.1:64183
+1684405932027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64183/devtools/browser/a17db488-aff5-40b7-b950-602f011b95ae
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile24jKnO\bookmarkbackups\bookmarks-2023-05-18.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile24jKnO\thumbnails) because it does not exist
+ervices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684406412054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684406412060	Marionette	INFO	Listening on port 64373
+Read port: 64373
+WebDriver BiDi listening on ws://127.0.0.1:64364
+1684406412213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64364/devtools/browser/078c0f3c-ce1b-4e78-ac90-c9298501ae62
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofilerAajEy\thumbnails) because it does not exist
+bugging-port" "64447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile6ZlCdx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684406431372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684406431377	Marionette	INFO	Listening on port 64455
+Read port: 64455
+WebDriver BiDi listening on ws://127.0.0.1:64447
+1684406431564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64447/devtools/browser/72185421-75ed-4423-b42b-d187f5eb4790
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684406439786	Marionette	INFO	Stopped listening on port 64455
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19528, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684409888820	geckodriver	INFO	Listening on 127.0.0.1:60896
+1684409891906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileybd353"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684409892892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684409892898	Marionette	INFO	Listening on port 60904
+Read port: 60904
+WebDriver BiDi listening on ws://127.0.0.1:60897
+1684409893115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60897/devtools/browser/fa112e16-fd28-4fe6-ac3f-3a630743e9a2
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684409911210	geckodriver	INFO	Listening on 127.0.0.1:60966
+1684409914255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileDjZBWV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684409914870	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684409914876	Marionette	INFO	Listening on port 60975
+Read port: 60975
+WebDriver BiDi listening on ws://127.0.0.1:60967
+1684409915119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60967/devtools/browser/1f7bff9f-439c-4179-8752-8dd753783b9b
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684409929275	geckodriver	INFO	Listening on 127.0.0.1:61038
+1684409932293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofiletZsRvc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684409932873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684409932883	Marionette	INFO	Listening on port 61048
+Read port: 61048
+WebDriver BiDi listening on ws://127.0.0.1:61039
+1684409933098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61039/devtools/browser/30a4fca1-a601-4067-95e7-dbb6b6c77a19
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684409943144	Marionette	INFO	Stopped listening on port 61048
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12340, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684825224546	geckodriver	INFO	Listening on 127.0.0.1:64481
+1684825227598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileDa7u42"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684825228508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684825228515	Marionette	INFO	Listening on port 64491
+Read port: 64491
+WebDriver BiDi listening on ws://127.0.0.1:64482
+1684825228702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64482/devtools/browser/4d2219df-1369-41f9-83e7-b5c35f0a29e9
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684825237403	Marionette	INFO	Stopped listening on port 64491
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11756, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684825947673	geckodriver	INFO	Listening on 127.0.0.1:64643
+1684825950731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileGthM71"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684825951130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684825951136	Marionette	INFO	Listening on port 64660
+Read port: 64660
+WebDriver BiDi listening on ws://127.0.0.1:64644
+1684825951284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64644/devtools/browser/600b8155-7634-454f-91d0-6054e23f8b02
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684825955073	Marionette	INFO	Stopped listening on port 64660
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9928, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684826464647	geckodriver	INFO	Listening on 127.0.0.1:64829
+1684826467698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile5VhAWq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684826468100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684826468105	Marionette	INFO	Listening on port 64837
+Read port: 64837
+WebDriver BiDi listening on ws://127.0.0.1:64830
+1684826468242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64830/devtools/browser/d91b0ad3-4b5c-4cc5-a308-dea575df712b
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684826488221	geckodriver	INFO	Listening on 127.0.0.1:64899
+1684826491263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile3NNqmp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684826491652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684826491658	Marionette	INFO	Listening on port 64907
+Read port: 64907
+WebDriver BiDi listening on ws://127.0.0.1:64900
+1684826491815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64900/devtools/browser/a4fe980a-f298-4a45-92b0-3f64992229dc
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684826495680	Marionette	INFO	Stopped listening on port 64907
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13388, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684828058518	geckodriver	INFO	Listening on 127.0.0.1:65375
+1684828061565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilev5fRhm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684828062144	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684828062150	Marionette	INFO	Listening on port 65383
+Read port: 65383
+WebDriver BiDi listening on ws://127.0.0.1:65376
+1684828062320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65376/devtools/browser/82fb0e68-2240-4411-ba58-2e661a3d19d6
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684828131888	geckodriver	INFO	Listening on 127.0.0.1:65469
+1684828134966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileGJLk60"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684828135387	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684828135393	Marionette	INFO	Listening on port 65477
+Read port: 65477
+WebDriver BiDi listening on ws://127.0.0.1:65470
+1684828135540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65470/devtools/browser/79fd675f-7450-4068-980b-8a011ba2b52e
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684828186366	geckodriver	INFO	Listening on 127.0.0.1:49175
+1684828189377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilev9vAo2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684828189961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684828189968	Marionette	INFO	Listening on port 49183
+Read port: 49183
+WebDriver BiDi listening on ws://127.0.0.1:49176
+1684828190163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49176/devtools/browser/704e0d4e-c4e8-4cf0-baea-79a5c41f226d
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684828194644	Marionette	INFO	Stopped listening on port 49183
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14100, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684832076170	geckodriver	INFO	Listening on 127.0.0.1:49512
+1684832079210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile1y9n59"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684832079808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684832079814	Marionette	INFO	Listening on port 49520
+Read port: 49520
+WebDriver BiDi listening on ws://127.0.0.1:49513
+1684832079965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49513/devtools/browser/b45bf709-50d3-4ec5-9202-55c76727d3e8
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684832127917	geckodriver	INFO	Listening on 127.0.0.1:49598
+1684832130938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilezialDR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684832131537	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684832131543	Marionette	INFO	Listening on port 49608
+Read port: 49608
+WebDriver BiDi listening on ws://127.0.0.1:49599
+1684832131694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49599/devtools/browser/0f8433a6-21e9-44b2-8c8c-fab7ce2bddad
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684832205952	geckodriver	INFO	Listening on 127.0.0.1:49688
+1684832209001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile56vaMc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684832209473	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684832209485	Marionette	INFO	Listening on port 49696
+Read port: 49696
+WebDriver BiDi listening on ws://127.0.0.1:49689
+1684832209730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49689/devtools/browser/97cb88eb-7056-48c4-8fc6-aebce49a627c
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684832214476	Marionette	INFO	Stopped listening on port 49696
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6464, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+[Child 15368, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (ContentMeta, Meta:SetPageInfo) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1684904611572	geckodriver	INFO	Listening on 127.0.0.1:61482
+1684904614610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileIkxNa7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684904615564	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684904615572	Marionette	INFO	Listening on port 61490
+Read port: 61490
+WebDriver BiDi listening on ws://127.0.0.1:61483
+1684904615754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61483/devtools/browser/f3558730-8904-4b7c-818a-9c5676443a58
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684921628766	geckodriver	INFO	Listening on 127.0.0.1:51797
+1684921632099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileDiJwmN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684921634583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684921634597	Marionette	INFO	Listening on port 51808
+Read port: 51808
+WebDriver BiDi listening on ws://127.0.0.1:51798
+1684921634857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51798/devtools/browser/30905b56-a6b6-4b68-98fe-26101b3f232f
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684921645282	Marionette	INFO	Stopped listening on port 51808
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13260, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684922126009	geckodriver	INFO	Listening on 127.0.0.1:51984
+1684922129058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileovWI8E"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684922129467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684922129472	Marionette	INFO	Listening on port 51992
+Read port: 51992
+WebDriver BiDi listening on ws://127.0.0.1:51985
+1684922129618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51985/devtools/browser/6b68690a-25e9-4e20-b867-5a148dec87d8
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1684922137483	Marionette	INFO	Stopped listening on port 51992
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4364, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1684994684128	geckodriver	INFO	Listening on 127.0.0.1:49305
+1684994687167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilezQ37Hy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684994688082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684994688089	Marionette	INFO	Listening on port 49315
+Read port: 49315
+WebDriver BiDi listening on ws://127.0.0.1:49306
+1684994688275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49306/devtools/browser/e52f37e4-4aa5-40c4-9399-6756b4547933
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1685942139185	geckodriver	INFO	Listening on 127.0.0.1:55153
+1685942142244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile5Er41m"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685942143295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685942143303	Marionette	INFO	Listening on port 55161
+Read port: 55161
+WebDriver BiDi listening on ws://127.0.0.1:55154
+1685942143486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55154/devtools/browser/9326f11a-cde7-48c4-bb98-9a1b16d3fddd
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile5Er41m\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile5Er41m\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile5Er41m\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile5Er41m\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofile5Er41m\thumbnails) because it does not exist
+r("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55262/devtools/browser/2c0c12f8-2dbf-4667-9a61-4723999f3a35
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1685942259367	Marionette	INFO	Stopped listening on port 55271
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 1448, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1685954044733	geckodriver	INFO	Listening on 127.0.0.1:56184
+1685954047743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileUhNOjJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685954048566	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685954048573	Marionette	INFO	Listening on port 56192
+Read port: 56192
+WebDriver BiDi listening on ws://127.0.0.1:56185
+1685954048730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56185/devtools/browser/d7745c8f-43ca-4458-82eb-ec4efa7e4c9a
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1685954057178	Marionette	INFO	Stopped listening on port 56192
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14880, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1685979101218	geckodriver	INFO	Listening on 127.0.0.1:63744
+1685979104277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile306r4A"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685979104730	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685979104735	Marionette	INFO	Listening on port 63754
+Read port: 63754
+WebDriver BiDi listening on ws://127.0.0.1:63745
+1685979104911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63745/devtools/browser/60fe82b9-72b8-4673-a565-8e08dc2230ef
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1685979113387	Marionette	INFO	Stopped listening on port 63754
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10224, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686141863574	geckodriver	INFO	Listening on 127.0.0.1:63153
+1686141866622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilefdxAEp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686141867711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686141867720	Marionette	INFO	Listening on port 63161
+Read port: 63161
+WebDriver BiDi listening on ws://127.0.0.1:63154
+1686141867951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63154/devtools/browser/91a9f51d-ca7e-4447-8cc6-005f4a7480b2
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686141910393	geckodriver	INFO	Listening on 127.0.0.1:63223
+1686141913476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilenmrDa1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686141914105	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686141914115	Marionette	INFO	Listening on port 63231
+Read port: 63231
+WebDriver BiDi listening on ws://127.0.0.1:63224
+1686141914296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63224/devtools/browser/5a5816a5-5617-4377-9211-740ec1fdf846
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+ enabled
+Dynamically enable window occlusion 0
+1686141935903	Marionette	INFO	Listening on port 63316
+WebDriver BiDi listening on ws://127.0.0.1:63308
+Read port: 63316
+1686141936072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63308/devtools/browser/cb042bf1-9d99-485c-acb3-3f1c46ebc32b
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686141995723	geckodriver	INFO	Listening on 127.0.0.1:63412
+1686141998739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile10pk4E"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686141999349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686141999354	Marionette	INFO	Listening on port 63423
+Read port: 63423
+WebDriver BiDi listening on ws://127.0.0.1:63413
+1686141999508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63413/devtools/browser/da176498-f2f8-4306-b5b4-4aec11a33253
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2019))
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142062771	geckodriver	INFO	Listening on 127.0.0.1:63534
+1686142065810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileiHxjXV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142066407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142066413	Marionette	INFO	Listening on port 63548
+Read port: 63548
+WebDriver BiDi listening on ws://127.0.0.1:63535
+1686142066577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63535/devtools/browser/ef516f63-f823-46f4-94af-f1950bf363a1
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142170556	geckodriver	INFO	Listening on 127.0.0.1:63637
+1686142173579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilerMHa7b"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142174251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142174256	Marionette	INFO	Listening on port 63645
+WebDriver BiDi listening on ws://127.0.0.1:63638
+Read port: 63645
+1686142174542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63638/devtools/browser/297cd167-2d87-4698-ab8a-861f60aaead2
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142248553	geckodriver	INFO	Listening on 127.0.0.1:63734
+1686142251569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileDbLu35"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142252148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142252153	Marionette	INFO	Listening on port 63743
+WebDriver BiDi listening on ws://127.0.0.1:63735
+Read port: 63743
+1686142252326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63735/devtools/browser/e2f6c016-5879-44c1-b00a-81934b74ef77
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142302166	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1686142377645	geckodriver	INFO	Listening on 127.0.0.1:63834
+1686142380683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilezTkSSx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142381272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142381286	Marionette	INFO	Listening on port 63842
+Read port: 63842
+WebDriver BiDi listening on ws://127.0.0.1:63835
+1686142381554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63835/devtools/browser/506d5e43-9a15-45f1-9ffd-f573dd0e3e12
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142769652	geckodriver	INFO	Listening on 127.0.0.1:64040
+1686142772690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileO3VK0V"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142773756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142773762	Marionette	INFO	Listening on port 64048
+Read port: 64048
+WebDriver BiDi listening on ws://127.0.0.1:64041
+1686142773913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64041/devtools/browser/85da85fa-9221-4b66-ad71-3c12b865c1c0
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686142830167	geckodriver	INFO	Listening on 127.0.0.1:64130
+1686142833203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileVSRsEq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686142833780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686142833788	Marionette	INFO	Listening on port 64138
+Read port: 64138
+WebDriver BiDi listening on ws://127.0.0.1:64131
+1686142833968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64131/devtools/browser/85100510-4cc0-4a4b-8fb0-8cb486aaa0f6
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686143297723	geckodriver	INFO	Listening on 127.0.0.1:64265
+1686143300798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilealAGlx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686143301341	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686143301346	Marionette	INFO	Listening on port 64273
+Read port: 64273
+WebDriver BiDi listening on ws://127.0.0.1:64266
+1686143301493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64266/devtools/browser/f6607620-225d-4370-bdfa-1bd68bbb6e0a
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686200629845	geckodriver	INFO	Listening on 127.0.0.1:61399
+1686200633090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilecR650m"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686200636466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686200636478	Marionette	INFO	Listening on port 61420
+Read port: 61420
+WebDriver BiDi listening on ws://127.0.0.1:61400
+1686200636807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61400/devtools/browser/0865cd4d-5c5c-4ebf-9bf8-35a7a6f28dfe
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686200646812	Marionette	INFO	Stopped listening on port 61420
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 3004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686202466196	geckodriver	INFO	Listening on 127.0.0.1:62099
+1686202469215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilekRYzJh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686202470022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686202470027	Marionette	INFO	Listening on port 62107
+Read port: 62107
+WebDriver BiDi listening on ws://127.0.0.1:62100
+1686202470176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62100/devtools/browser/ace7abbe-ea63-45db-8797-e688ed910182
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686202556859	geckodriver	INFO	Listening on 127.0.0.1:62194
+1686202559884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile2NrJMF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686202560326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686202560332	Marionette	INFO	Listening on port 62204
+WebDriver BiDi listening on ws://127.0.0.1:62195
+Read port: 62204
+1686202560623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62195/devtools/browser/570de113-935c-49a1-936d-b0719918e7ab
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686202605404	geckodriver	INFO	Listening on 127.0.0.1:62278
+1686202608462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileEamc2z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686202608957	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686202608964	Marionette	INFO	Listening on port 62286
+Read port: 62286
+WebDriver BiDi listening on ws://127.0.0.1:62279
+1686202609139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62279/devtools/browser/22d5754a-1794-4dcd-97fd-6cbdfc4a8fdc
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686202647468	geckodriver	INFO	Listening on 127.0.0.1:62364
+1686202650464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilev9InUU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686202650868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686202650875	Marionette	INFO	Listening on port 62372
+Read port: 62372
+WebDriver BiDi listening on ws://127.0.0.1:62365
+1686202651027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62365/devtools/browser/8f22f943-e695-4b06-bc84-e3c3535b3351
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686203832058	geckodriver	INFO	Listening on 127.0.0.1:62628
+1686203835081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileCJFgAv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686203835515	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686203835520	Marionette	INFO	Listening on port 62638
+Read port: 62638
+WebDriver BiDi listening on ws://127.0.0.1:62629
+1686203835669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62629/devtools/browser/390aa7b0-bdcc-4702-a7c4-93423fa1eec3
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\mthan\AppData\Local\Temp\rust_mozprofileCJFgAv\bookmarkbackups\bookmarks-2023-06-08.jsonlz4) because it does not exist
+e-debugging-port" "62714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileY31ILh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686203899136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686203899141	Marionette	INFO	Listening on port 62723
+Read port: 62723
+WebDriver BiDi listening on ws://127.0.0.1:62714
+1686203899311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62714/devtools/browser/5a434093-422b-4b3b-a3bc-f52fc55014cf
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686203950894	geckodriver	INFO	Listening on 127.0.0.1:62850
+1686203953926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileIs0ZPw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686203954746	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686203954753	Marionette	INFO	Listening on port 62859
+Read port: 62859
+WebDriver BiDi listening on ws://127.0.0.1:62851
+1686203954917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62851/devtools/browser/ac09b135-2723-4766-baa8-3b0adf89c893
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686203964643	Marionette	INFO	Stopped listening on port 62859
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686224786539	geckodriver	INFO	Listening on 127.0.0.1:60368
+1686224789571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile8scplv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686224790877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686224790885	Marionette	INFO	Listening on port 60479
+Read port: 60479
+WebDriver BiDi listening on ws://127.0.0.1:60369
+1686224791116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60369/devtools/browser/e091e579-ccc9-48ac-89f8-a0017d00297a
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686224801200	Marionette	INFO	Stopped listening on port 60479
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 2864, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686578212326	geckodriver	INFO	Listening on 127.0.0.1:53377
+1686578215441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilewZOL2d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686578216510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686578216518	Marionette	INFO	Listening on port 53386
+WebDriver BiDi listening on ws://127.0.0.1:53378
+Read port: 53386
+1686578216917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53378/devtools/browser/7b6a8a0e-aa99-4e88-8a7e-6de943d25497
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686578259557	geckodriver	INFO	Listening on 127.0.0.1:53464
+1686578262584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileHPiTtT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686578262974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686578262980	Marionette	INFO	Listening on port 53472
+Read port: 53472
+WebDriver BiDi listening on ws://127.0.0.1:53465
+1686578263124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53465/devtools/browser/86229244-71d9-4521-95f8-66d1463d8d6e
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686578273024	Marionette	INFO	Stopped listening on port 53472
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4644, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686835256960	geckodriver	INFO	Listening on 127.0.0.1:62383
+1686835260147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileCcyFBb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686835261433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686835261443	Marionette	INFO	Listening on port 62395
+Read port: 62395
+WebDriver BiDi listening on ws://127.0.0.1:62384
+1686835261720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62384/devtools/browser/239efcb3-facc-46ed-80c9-424cf9611820
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686835304783	geckodriver	INFO	Listening on 127.0.0.1:51219
+1686835307845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileelIGeJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686835308348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686835308353	Marionette	INFO	Listening on port 51227
+Read port: 51227
+WebDriver BiDi listening on ws://127.0.0.1:51220
+1686835308537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51220/devtools/browser/837d1fe0-0a90-4fc6-8c69-a6b06c41d3c6
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686839168333	geckodriver	INFO	Listening on 127.0.0.1:63071
+1686839171694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilesOgGfn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686839173501	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686839173512	Marionette	INFO	Listening on port 63082
+Read port: 63082
+WebDriver BiDi listening on ws://127.0.0.1:63072
+1686839173850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63072/devtools/browser/6b94b755-d8e7-4dc9-b877-0506fe6a2232
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686839237969	geckodriver	INFO	Listening on 127.0.0.1:63182
+1686839241057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileAbYES1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686839241632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686839241638	Marionette	INFO	Listening on port 63190
+WebDriver BiDi listening on ws://127.0.0.1:63183
+Read port: 63190
+1686839242026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63183/devtools/browser/5e939feb-ba32-42ae-a3ad-248cb5e65c05
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686839307551	geckodriver	INFO	Listening on 127.0.0.1:63290
+1686839310612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilelsf4Es"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686839311128	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686839311134	Marionette	INFO	Listening on port 63298
+Read port: 63298
+WebDriver BiDi listening on ws://127.0.0.1:63291
+1686839311345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63291/devtools/browser/879279dc-3153-46fb-a935-971918cb2784
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686901812797	geckodriver	INFO	Listening on 127.0.0.1:54933
+1686901816060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileN87EJt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686901817966	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686901817977	Marionette	INFO	Listening on port 54942
+Read port: 54942
+WebDriver BiDi listening on ws://127.0.0.1:54934
+1686901818410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54934/devtools/browser/c0eee348-56ba-4d6d-b7ae-54667e37214d
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686901831333	Marionette	INFO	Stopped listening on port 54942
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 10832, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1686923778906	geckodriver	INFO	Listening on 127.0.0.1:62366
+1686923781950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileXMQNZm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686923783289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686923783297	Marionette	INFO	Listening on port 62374
+Read port: 62374
+WebDriver BiDi listening on ws://127.0.0.1:62367
+1686923783516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62367/devtools/browser/c4214e39-89dd-4918-819d-0d4e52fa7e0c
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1686923793533	Marionette	INFO	Stopped listening on port 62374
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11736, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1687157573964	geckodriver	INFO	Listening on 127.0.0.1:60264
+1687157577026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileUYyq6n"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687157578143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687157578151	Marionette	INFO	Listening on port 60272
+Read port: 60272
+WebDriver BiDi listening on ws://127.0.0.1:60265
+1687157578358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60265/devtools/browser/3751eb34-802d-4553-86b1-6c37629bc4b2
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1687157582415	Marionette	INFO	Stopped listening on port 60272
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1687176154143	geckodriver	INFO	Listening on 127.0.0.1:63590
+1687176157224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile3v8ara"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687176158116	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687176158123	Marionette	INFO	Listening on port 63598
+Read port: 63598
+WebDriver BiDi listening on ws://127.0.0.1:63591
+1687176158315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63591/devtools/browser/52cba2b8-5796-464f-968d-67a10489678c
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1687176167461	Marionette	INFO	Stopped listening on port 63598
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8320, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+1688734573229	geckodriver	INFO	Listening on 127.0.0.1:56601
+1688734576264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilemnbZA9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688734577364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688734577371	Marionette	INFO	Listening on port 56609
+Read port: 56609
+WebDriver BiDi listening on ws://127.0.0.1:56602
+1688734577561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56602/devtools/browser/eba1c012-a92e-4d07-b8ea-b80c80df42a7
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3198: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3215: unreachable code after return statement
+1688734590016	Marionette	INFO	Stopped listening on port 56609
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12472, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
