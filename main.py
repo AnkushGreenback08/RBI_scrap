@@ -258,3 +258,4 @@ def telegram_bot_sendtext(bot_message):
     return response.json()
 # calling the function to send message
 response = telegram_bot_sendtext(message)
+#print("test")
