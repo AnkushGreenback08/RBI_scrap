@@ -243,7 +243,7 @@ dfReservesNew.to_csv('OnlineData - RBI.csv', index=False)
 # send message to Telegram Group
 
 if newDate != oldDate:
-    message = "GitHub Actions: RBI code ran successfully"
+    message = "GitHub Actions: RBI code run successfully"
 else:
     message  = "GitHub Actions: RBI Data already Updated"
 
