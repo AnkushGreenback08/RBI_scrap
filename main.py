@@ -245,7 +245,7 @@ dfReservesNew.to_csv('OnlineData - RBI.csv', index=False)
 if newDate != oldDate:
     message = "GitHub Actions: RBI code run successfully"
 else:
-    message  = "GitHub Actions: RBI Data already Updated"
+    message  = "GitHub Actions: RBI Data already Updated!"
 
 def telegram_bot_sendtext(bot_message):
     ### function to send message by bot to Group"
