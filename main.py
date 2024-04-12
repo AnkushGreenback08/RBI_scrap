@@ -241,7 +241,7 @@ Export_Data_To_Sheets('RBI',dfReservesNew)
 dfReservesNew.to_csv('OnlineData - RBI.csv', index=False)
 
 # send message to Telegram Group
-
+print(newDate)
 if newDate != oldDate:
     message = "GitHub Actions: RBI code run successfully"
 else:
