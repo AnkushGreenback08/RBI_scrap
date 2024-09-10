@@ -90,9 +90,12 @@ commonclass = soup.find_all('td')
 for i in range (len(commonclass)):
     if "Total Reserves" in commonclass[i].text:
         reserves =  (commonclass[i+2].text)
+        print(reserves)
         change = (commonclass[i+4].text)
+        print(change)
 
 
+# print(commonclass)
 # In[12]:
 
 
@@ -106,12 +109,23 @@ driver.close()
 # picking up the update Date 
 Date = (commonclass[4].text[6:])
 
+Date = Date.replace('.', '')
+
+print("Date----------------------------------------------->",Date)
+
 #converting to datetime format
-try:
-    Date1 = datetime.strptime(Date, '%B %d, %Y')
-except:
-    Date1 = datetime.strptime(Date, '%B %d %Y')
+# try:
+#     Date1 = datetime.strptime(Date, '%B %d, %Y')
+# except:
+#     Date1 = datetime.strptime(Date, '%B %d %Y')
     
+
+
+try:
+    Date1 = datetime.strptime(Date, '%b %d, %Y')  # Using abbreviated month format without a period
+except ValueError as e:
+    print("Error parsing date:", e)
+
 # creating a dict to create write a df and saving to csv
 Reserves ={
     'RBI Date': Date1,
@@ -119,6 +133,8 @@ Reserves ={
     # 'Change': change
 }
 dfReserves = pd.DataFrame(Reserves, index=[0])
+
+print(dfReserves)
 # dfReserves.to_csv('reserves.csv', index=False)
 
 # dfReservesOld = pd.read_csv('OnlineData - RBI.csv')
