@@ -90,7 +90,8 @@ commonclass = soup.find_all('td')
 for i in range (len(commonclass)):
     if "Total Reserves" in commonclass[i].text:
         reserves =  (commonclass[i+2].text)
-        print(reserves)
+        # print(reserves)
+    
         change = (commonclass[i+4].text)
         print(change)
 
