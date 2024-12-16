@@ -123,7 +123,7 @@ Date = Date.replace('.', '')
 
 
 try:
-    Date1 = datetime.strptime(Date, '%b %d, %Y')  # Using abbreviated month format without a period
+    Date1 = datetime.strptime(Date, '%B %d, %Y')  # Using abbreviated month format without a period
 except ValueError as e:
     print("Error parsing date:", e)
 
